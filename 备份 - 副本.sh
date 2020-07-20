@@ -1,5 +1,5 @@
 #!/bin/sh
-cd D:\MyGit\gitDemo01
+cd /d/MyGit/gitDemo01
 git checkout dev
 git add .
 git commit -am "made changes"
