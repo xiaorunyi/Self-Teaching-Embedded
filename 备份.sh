@@ -1,8 +1,8 @@
 #!/bin/sh
-cd D:\MyGit\gitDemo01
+cd /d/MyGit/gitDemo01
 git checkout dev
 git add .
-git commit -am "made changes"
+git commit -am "update"
 git push
 echo Press Enter...
 read
