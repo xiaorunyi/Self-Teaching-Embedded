@@ -18,6 +18,14 @@ ARM嵌入式Linux系统开发详解（第2版）
 
 嵌入式C语言技术实战开发
 
+- 《Linux 内核文档》
+- 《Linux设备驱动程序》(ldd) / 第 3 章节
+- 《深入Linux设备驱动程序内核机制》(ildd) / 第 2 章节
+- 《精通Linux设备驱动程序开发》(eldd) / 第 2 章节
+- 《Linux设备驱动开发详解》(ldds) / 第 6 章节
+- 《深入Linux内核架构》(plka) / 第 6 章节
+- 《嵌入式应用开发完全手册》
+
 RISC-V架构与嵌入式开发快速入门
 
 基于FPGA与RISC-V的嵌入式系统设计
@@ -41,6 +49,8 @@ Xilinx Zynq-7000嵌入式系统设计与实现：基于Arm Cortex-A9双核处理
 [嵌入式之学习路线](https://blog.csdn.net/u011146511/article/details/80689245)
 
 [嵌入式工程师的主要工作是什么？怎么学习嵌入式？](http://www.gec-edu.org/gsnews/show/570000.html?sid=xydt)
+
+[Linux驱动开发 / 字符设备驱动内幕 (1)](https://mp.weixin.qq.com/s/GOdtUU_lHaIAIZEThpM4-g)
 
 
 
